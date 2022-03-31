@@ -557,4 +557,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-c50ba1d88f564befa6983d3cdd4c4a5b.xml#id-c50ba1d88f564befa6983d3cdd4c4a5b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fced49bc40ef4422b22f8bfcaf161445">
+    <bounds
+        x="576"
+        y="572"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-d5e9f774b1a740fbb1005b6fbaf3724e.xml#id-d5e9f774b1a740fbb1005b6fbaf3724e"/>
+  </children>
 </archimate:ArchimateDiagramModel>
